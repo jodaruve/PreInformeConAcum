@@ -1,0 +1,5 @@
+## números pares de 1 a 30
+i=[2,4,6,8,10,12,14,16,18,20,22,24,26,28,30]
+print("Los numeros pares de 1 a 30 son:")
+for num in i:
+    print (num)
